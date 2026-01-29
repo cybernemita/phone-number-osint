@@ -24,6 +24,13 @@ pip install -r requirements.txt# phone-number-osint
 
 ****## Usage****
 python basic_info/phone_basic.py
+
+
+## ▶ Advanced Usage
+```bash
+python advanced_info/phone_advanced.py
+
+
 Free Phone Number Information &amp; OSINT tools for Termux and Linux. Get country, carrier, timezone, number format using Python.
 
 ⚠ Disclaimer
