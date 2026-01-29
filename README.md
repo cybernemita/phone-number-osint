@@ -20,7 +20,7 @@ Get country, carrier, timezone and number format using Python.
 pkg install git python -y
 git clone https://github.com/cybernemita/phone-number-osint
 cd phone-number-osint
-pip install -r requirements.txt# phone-number-osint
+pip install -r requirements.txt
 
 ****## Usage****
 python basic_info/phone_basic.py
